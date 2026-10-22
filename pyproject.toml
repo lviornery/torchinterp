@@ -1,7 +1,7 @@
 [project]
 name = "torchinterp"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "Adds 1-d interpolation of arbitrarily-sized data to pytorch"
 readme = "README.md"
 authors = [
     { name = "lviornery", email = "22897341+lviornery@users.noreply.github.com" }
