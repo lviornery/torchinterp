@@ -9,6 +9,10 @@ pip install torchinterp
 # Usage
 
 ```
+import torch
+from torchinterp import TorchInterpolator
+
+
 xp = torch.tensor([0.0,1.0])
 fp = torch.tensor([1.0,2.0])
 
